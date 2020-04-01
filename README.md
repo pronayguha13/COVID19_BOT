@@ -19,3 +19,10 @@ pip install -r requirements.txt
 ```python
 DEFAULT_WEBHOOK_URL = "https://hooks.slack.com/services/{Custom_webhook_URL}"
 ```
+
+
+## click on this URL
+```
+https://tinyurl.com/wfrftsc
+
+```
