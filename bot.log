@@ -1,0 +1,1873 @@
+[2020-03-30 17:43:52,006] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:43:53,204] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:43:53,451] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India. to slack
+[2020-03-30 17:43:53,455] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:43:53,981] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:43:53,989] Sending CoronaVirus Previous Summary for India:
++-----------------------------+------+------+------+
+| State                       |   Fr |   Cd |   Dt |
+|-----------------------------+------+------+------|
+| Andhra Pradesh              |   19 |    1 |    0 |
+| Andaman and Nicobar Islands |    9 |    0 |    0 |
+| Bihar                       |   11 |    0 |    1 |
+| Chandigarh                  |    8 |    0 |    0 |
+| Chhattisgarh                |    7 |    0 |    0 |
+| Delhi                       |   53 |    6 |    2 |
+| Goa                         |    5 |    0 |    0 |
+| Gujarat                     |   58 |    1 |    5 |
+| Haryana                     |   33 |   17 |    0 |
+| Himachal Pradesh            |    3 |    0 |    1 |
+| Jammu and Kashmir           |   31 |    1 |    2 |
+| Karnataka                   |   80 |    5 |    3 |
+| Kerala                      |  194 |   19 |    1 |
+| Ladakh                      |   13 |    3 |    0 |
+| Madhya Pradesh              |   33 |    0 |    2 |
+| Maharashtra                 |  193 |   25 |    8 |
+| Manipur                     |    1 |    0 |    0 |
+| Mizoram                     |    1 |    0 |    0 |
+| Odisha                      |    3 |    0 |    0 |
+| Puducherry                  |    1 |    0 |    0 |
+| Punjab                      |   38 |    1 |    1 |
+| Rajasthan                   |   57 |    3 |    0 |
+| Tamil Nadu                  |   50 |    4 |    1 |
+| Telengana                   |   69 |    1 |    1 |
+| Uttarakhand                 |    7 |    2 |    0 |
+| Uttar Pradesh               |   75 |   11 |    0 |
+| West Bengal                 |   19 |    0 |    1 |
+| 1071                        |  100 |   29 |      |
++-----------------------------+------+------+------+ to slack
+[2020-03-30 17:43:53,993] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:43:54,875] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:46:04,799] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:46:04,931] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:46:05,147] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on30/03/2020 17:46 to slack
+[2020-03-30 17:46:05,153] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:46:06,100] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:46:06,110] Sending CoronaVirus Previous Summary for India:
++-----------------------------+------+------+------+
+| State                       |   Fr |   Cd |   Dt |
+|-----------------------------+------+------+------|
+| Andhra Pradesh              |   19 |    1 |    0 |
+| Andaman and Nicobar Islands |    9 |    0 |    0 |
+| Bihar                       |   11 |    0 |    1 |
+| Chandigarh                  |    8 |    0 |    0 |
+| Chhattisgarh                |    7 |    0 |    0 |
+| Delhi                       |   53 |    6 |    2 |
+| Goa                         |    5 |    0 |    0 |
+| Gujarat                     |   58 |    1 |    5 |
+| Haryana                     |   33 |   17 |    0 |
+| Himachal Pradesh            |    3 |    0 |    1 |
+| Jammu and Kashmir           |   31 |    1 |    2 |
+| Karnataka                   |   80 |    5 |    3 |
+| Kerala                      |  194 |   19 |    1 |
+| Ladakh                      |   13 |    3 |    0 |
+| Madhya Pradesh              |   33 |    0 |    2 |
+| Maharashtra                 |  193 |   25 |    8 |
+| Manipur                     |    1 |    0 |    0 |
+| Mizoram                     |    1 |    0 |    0 |
+| Odisha                      |    3 |    0 |    0 |
+| Puducherry                  |    1 |    0 |    0 |
+| Punjab                      |   38 |    1 |    1 |
+| Rajasthan                   |   57 |    3 |    0 |
+| Tamil Nadu                  |   50 |    4 |    1 |
+| Telengana                   |   69 |    1 |    1 |
+| Uttarakhand                 |    7 |    2 |    0 |
+| Uttar Pradesh               |   75 |   11 |    0 |
+| West Bengal                 |   19 |    0 |    1 |
+| 1071                        |  100 |   29 |      |
++-----------------------------+------+------+------+ to slack
+[2020-03-30 17:46:06,116] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:46:06,569] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:46:57,599] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:46:57,708] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:46:57,925] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:46 to slack
+[2020-03-30 17:46:57,931] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:46:58,370] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:46:58,380] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| 1071                        |   100 |     29 |      |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:46:58,386] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:46:59,221] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:48:36,393] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:48:36,900] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:48:37,094] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:48 to slack
+[2020-03-30 17:48:37,098] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:48:39,053] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:48:39,065] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| 1071                        |   100 |     29 |      |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:48:39,071] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:48:39,574] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:50:13,325] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:50:13,531] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:50:13,773] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:50 to slack
+[2020-03-30 17:50:13,778] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:50:14,286] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:50:14,293] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| 1071                        |   100 |     29 |      |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:50:14,298] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:50:14,768] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:50:28,714] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:50:28,800] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:50:29,011] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:50 to slack
+[2020-03-30 17:50:29,016] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:50:29,474] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:50:29,482] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| 1071                        |   100 |     29 |      |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:50:29,487] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:50:30,366] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:50:46,969] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:50:47,345] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:50:47,576] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:50 to slack
+[2020-03-30 17:50:47,581] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:50:48,457] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:50:48,465] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| 1071                        |   100 |     29 |      |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:50:48,470] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:50:49,542] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:51:04,862] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:51:04,948] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:51:05,184] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:51 to slack
+[2020-03-30 17:51:05,189] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:51:05,650] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:51:05,659] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:51:05,664] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:51:06,157] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:52:51,822] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:52:52,197] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:52:52,447] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:52 to slack
+[2020-03-30 17:52:52,451] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:52:53,588] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:52:53,596] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:52:53,601] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:52:54,050] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:56:09,636] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:56:09,859] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:56:10,063] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:56 to slack
+[2020-03-30 17:56:10,069] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:56:10,602] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:56:10,610] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:56:10,615] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:56:11,103] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:56:41,438] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:56:42,007] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:56:42,307] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:56 to slack
+[2020-03-30 17:56:42,312] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:56:42,784] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:56:42,792] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:56:42,797] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:56:43,630] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:57:22,402] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:57:22,968] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:57:23,173] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:57 to slack
+[2020-03-30 17:57:23,179] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:57:24,069] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:57:24,078] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:57:24,083] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:57:25,074] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:58:21,886] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 17:58:22,455] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 17:58:22,644] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 17:58 to slack
+[2020-03-30 17:58:22,648] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:58:23,513] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 17:58:23,521] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 17:58:23,527] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 17:58:24,536] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:03:13,017] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:03:14,266] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:03:14,510] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 18:03 to slack
+[2020-03-30 18:03:14,515] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:03:15,484] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:03:15,492] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 18:03:15,498] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:03:16,365] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:04:01,716] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:04:01,818] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:04:02,093] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 18:04 to slack
+[2020-03-30 18:04:02,097] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:04:02,893] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:04:02,902] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 18:04:02,908] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:04:03,730] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:04:19,705] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:04:20,302] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:04:20,577] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 18:04 to slack
+[2020-03-30 18:04:20,583] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:04:21,453] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:04:21,462] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 18:04:21,467] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:04:22,514] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:04:56,916] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:04:57,026] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:04:57,250] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\COVID\COVID19_BOT.py", line 68, in <module>
+    y.merge(temp[len(temp)-1])
+AttributeError: 'list' object has no attribute 'merge'
+[2020-03-30 18:04:57,251] Sending Exception occured: ['list' object has no attribute 'merge'] to slack
+[2020-03-30 18:04:57,256] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:04:57,703] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:09:21,254] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:09:21,374] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:09:21,645] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 18:09 to slack
+[2020-03-30 18:09:21,650] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:09:22,587] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:09:22,596] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 18:09:22,601] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:09:23,102] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:10:25,298] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:10:25,435] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:10:25,712] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\COVID\COVID19_BOT.py", line 109, in <module>
+    events_info="No COVID-19 updation in India on "+t+"\n"+y1
+TypeError: can only concatenate str (not "list") to str
+[2020-03-30 18:10:25,713] Sending Exception occured: [can only concatenate str (not "list") to str] to slack
+[2020-03-30 18:10:25,718] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:10:26,597] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:10:59,046] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:10:59,551] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:10:59,837] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 18:10 to slack
+[2020-03-30 18:10:59,841] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:11:00,838] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:11:00,843] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\COVID\COVID19_BOT.py", line 113, in <module>
+    table = tabulate(past_data,y1, headers=SHORT_HEADERS, tablefmt='psql')
+TypeError: tabulate() got multiple values for argument 'headers'
+[2020-03-30 18:11:00,845] Sending Exception occured: [tabulate() got multiple values for argument 'headers'] to slack
+[2020-03-30 18:11:00,849] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:11:01,899] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:11:53,496] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:11:54,274] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:11:54,605] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 18:11 to slack
+[2020-03-30 18:11:54,609] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:11:56,001] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:11:56,009] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 18:11:56,014] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:11:56,673] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:12:40,810] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:12:41,000] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:12:41,310] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 18:12 to slack
+[2020-03-30 18:12:41,315] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:12:42,185] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:12:42,193] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 18:12:42,198] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:12:42,657] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:20:28,045] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 18:20:28,150] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11571
+[2020-03-30 18:20:28,423] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 18:20 to slack
+[2020-03-30 18:20:28,427] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:20:29,299] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 18:20:29,309] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 18:20:29,314] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 18:20:30,156] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:42:44,358] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 19:42:45,228] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 19:42:45,317] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 19:42 to slack
+[2020-03-30 19:42:45,318] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:42:46,239] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:42:46,243] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 19:42:46,245] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:42:46,638] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:49:17,138] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 19:49:17,194] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 19:49:17,245] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 19:49 to slack
+[2020-03-30 19:49:17,247] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:49:18,107] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:49:18,121] Sending CoronaVirus Previous Summary for India:
+State                          Inf    Cure    Dt
+---------------------------  -----  ------  ----
+Andhra Pradesh                  19       1     0
+Andaman and Nicobar Islands      9       0     0
+Bihar                           11       0     1
+Chandigarh                       8       0     0
+Chhattisgarh                     7       0     0
+Delhi                           53       6     2
+Goa                              5       0     0
+Gujarat                         58       1     5
+Haryana                         33      17     0
+Himachal Pradesh                 3       0     1
+Jammu and Kashmir               31       1     2
+Karnataka                       80       5     3
+Kerala                         194      19     1
+Ladakh                          13       3     0
+Madhya Pradesh                  33       0     2
+Maharashtra                    193      25     8
+Manipur                          1       0     0
+Mizoram                          1       0     0
+Odisha                           3       0     0
+Puducherry                       1       0     0
+Punjab                          38       1     1
+Rajasthan                       57       3     0
+Tamil Nadu                      50       4     1
+Telengana                       69       1     1
+Uttarakhand                      7       2     0
+Uttar Pradesh                   75      11     0
+West Bengal                     19       0     1
+Total                         1071     100    29 to slack
+[2020-03-30 19:49:18,125] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:49:19,129] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:53:22,943] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 19:53:22,989] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 19:53:23,041] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 19:53 to slack
+[2020-03-30 19:53:23,043] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:53:23,474] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:53:23,479] Sending CoronaVirus Previous Summary for India:
+                      State    Inf    Cure    Dt
+---------------------------  -----  ------  ----
+             Andhra Pradesh     19       1     0
+Andaman and Nicobar Islands      9       0     0
+                      Bihar     11       0     1
+                 Chandigarh      8       0     0
+               Chhattisgarh      7       0     0
+                      Delhi     53       6     2
+                        Goa      5       0     0
+                    Gujarat     58       1     5
+                    Haryana     33      17     0
+           Himachal Pradesh      3       0     1
+          Jammu and Kashmir     31       1     2
+                  Karnataka     80       5     3
+                     Kerala    194      19     1
+                     Ladakh     13       3     0
+             Madhya Pradesh     33       0     2
+                Maharashtra    193      25     8
+                    Manipur      1       0     0
+                    Mizoram      1       0     0
+                     Odisha      3       0     0
+                 Puducherry      1       0     0
+                     Punjab     38       1     1
+                  Rajasthan     57       3     0
+                 Tamil Nadu     50       4     1
+                  Telengana     69       1     1
+                Uttarakhand      7       2     0
+              Uttar Pradesh     75      11     0
+                West Bengal     19       0     1
+                      Total   1071     100    29 to slack
+[2020-03-30 19:53:23,482] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:53:23,878] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:55:56,581] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 19:55:56,644] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 19:55:56,697] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 19:55 to slack
+[2020-03-30 19:55:56,699] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:55:57,539] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:55:57,555] Sending CoronaVirus Previous Summary for India:
+                      State    Inf    Cure    Dt
+---------------------------  -----  ------  ----
+Andhra Pradesh                  19       1     0
+Andaman and Nicobar Islands      9       0     0
+Bihar                           11       0     1
+Chandigarh                       8       0     0
+Chhattisgarh                     7       0     0
+Delhi                           53       6     2
+Goa                              5       0     0
+Gujarat                         58       1     5
+Haryana                         33      17     0
+Himachal Pradesh                 3       0     1
+Jammu and Kashmir               31       1     2
+Karnataka                       80       5     3
+Kerala                         194      19     1
+Ladakh                          13       3     0
+Madhya Pradesh                  33       0     2
+Maharashtra                    193      25     8
+Manipur                          1       0     0
+Mizoram                          1       0     0
+Odisha                           3       0     0
+Puducherry                       1       0     0
+Punjab                          38       1     1
+Rajasthan                       57       3     0
+Tamil Nadu                      50       4     1
+Telengana                       69       1     1
+Uttarakhand                      7       2     0
+Uttar Pradesh                   75      11     0
+West Bengal                     19       0     1
+Total                         1071     100    29 to slack
+[2020-03-30 19:55:57,559] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:55:58,371] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:58:15,388] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 19:58:15,448] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 19:58:15,509] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 19:58 to slack
+[2020-03-30 19:58:15,510] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:58:16,005] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 19:58:16,018] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+|                       State |   Inf |   Cure |   Dt |
++=============================+=======+========+======+
+| Andhra Pradesh              |    19 |      1 |    0 |
++-----------------------------+-------+--------+------+
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
++-----------------------------+-------+--------+------+
+| Bihar                       |    11 |      0 |    1 |
++-----------------------------+-------+--------+------+
+| Chandigarh                  |     8 |      0 |    0 |
++-----------------------------+-------+--------+------+
+| Chhattisgarh                |     7 |      0 |    0 |
++-----------------------------+-------+--------+------+
+| Delhi                       |    53 |      6 |    2 |
++-----------------------------+-------+--------+------+
+| Goa                         |     5 |      0 |    0 |
++-----------------------------+-------+--------+------+
+| Gujarat                     |    58 |      1 |    5 |
++-----------------------------+-------+--------+------+
+| Haryana                     |    33 |     17 |    0 |
++-----------------------------+-------+--------+------+
+| Himachal Pradesh            |     3 |      0 |    1 |
++-----------------------------+-------+--------+------+
+| Jammu and Kashmir           |    31 |      1 |    2 |
++-----------------------------+-------+--------+------+
+| Karnataka                   |    80 |      5 |    3 |
++-----------------------------+-------+--------+------+
+| Kerala                      |   194 |     19 |    1 |
++-----------------------------+-------+--------+------+
+| Ladakh                      |    13 |      3 |    0 |
++-----------------------------+-------+--------+------+
+| Madhya Pradesh              |    33 |      0 |    2 |
++-----------------------------+-------+--------+------+
+| Maharashtra                 |   193 |     25 |    8 |
++-----------------------------+-------+--------+------+
+| Manipur                     |     1 |      0 |    0 |
++-----------------------------+-------+--------+------+
+| Mizoram                     |     1 |      0 |    0 |
++-----------------------------+-------+--------+------+
+| Odisha                      |     3 |      0 |    0 |
++-----------------------------+-------+--------+------+
+| Puducherry                  |     1 |      0 |    0 |
++-----------------------------+-------+--------+------+
+| Punjab                      |    38 |      1 |    1 |
++-----------------------------+-------+--------+------+
+| Rajasthan                   |    57 |      3 |    0 |
++-----------------------------+-------+--------+------+
+| Tamil Nadu                  |    50 |      4 |    1 |
++-----------------------------+-------+--------+------+
+| Telengana                   |    69 |      1 |    1 |
++-----------------------------+-------+--------+------+
+| Uttarakhand                 |     7 |      2 |    0 |
++-----------------------------+-------+--------+------+
+| Uttar Pradesh               |    75 |     11 |    0 |
++-----------------------------+-------+--------+------+
+| West Bengal                 |    19 |      0 |    1 |
++-----------------------------+-------+--------+------+
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 19:58:16,022] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 19:58:16,432] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:04:21,919] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:04:22,007] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:04:22,088] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:04 to slack
+[2020-03-30 20:04:22,090] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:04:22,949] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:04:22,952] Sending CoronaVirus Previous Summary for India:
+                      State    Inf    Cure    Dt
+---------------------------  -----  ------  ----
+Andhra Pradesh                  19       1     0
+Andaman and Nicobar Islands      9       0     0
+Bihar                           11       0     1
+Chandigarh                       8       0     0
+Chhattisgarh                     7       0     0
+Delhi                           53       6     2
+Goa                              5       0     0
+Gujarat                         58       1     5
+Haryana                         33      17     0
+Himachal Pradesh                 3       0     1
+Jammu and Kashmir               31       1     2
+Karnataka                       80       5     3
+Kerala                         194      19     1
+Ladakh                          13       3     0
+Madhya Pradesh                  33       0     2
+Maharashtra                    193      25     8
+Manipur                          1       0     0
+Mizoram                          1       0     0
+Odisha                           3       0     0
+Puducherry                       1       0     0
+Punjab                          38       1     1
+Rajasthan                       57       3     0
+Tamil Nadu                      50       4     1
+Telengana                       69       1     1
+Uttarakhand                      7       2     0
+Uttar Pradesh                   75      11     0
+West Bengal                     19       0     1
+Total                         1071     100    29 to slack
+[2020-03-30 20:04:22,954] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:04:23,352] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:05:48,825] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:05:48,918] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:05:48,998] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:05 to slack
+[2020-03-30 20:05:49,000] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:05:49,449] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:05:49,454] Sending CoronaVirus Previous Summary for India:
+State                          Inf    Cure    Dt
+---------------------------  -----  ------  ----
+Andhra Pradesh                  19       1     0
+Andaman and Nicobar Islands      9       0     0
+Bihar                           11       0     1
+Chandigarh                       8       0     0
+Chhattisgarh                     7       0     0
+Delhi                           53       6     2
+Goa                              5       0     0
+Gujarat                         58       1     5
+Haryana                         33      17     0
+Himachal Pradesh                 3       0     1
+Jammu and Kashmir               31       1     2
+Karnataka                       80       5     3
+Kerala                         194      19     1
+Ladakh                          13       3     0
+Madhya Pradesh                  33       0     2
+Maharashtra                    193      25     8
+Manipur                          1       0     0
+Mizoram                          1       0     0
+Odisha                           3       0     0
+Puducherry                       1       0     0
+Punjab                          38       1     1
+Rajasthan                       57       3     0
+Tamil Nadu                      50       4     1
+Telengana                       69       1     1
+Uttarakhand                      7       2     0
+Uttar Pradesh                   75      11     0
+West Bengal                     19       0     1
+Total                         1071     100    29 to slack
+[2020-03-30 20:05:49,456] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:05:50,244] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:09:06,663] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:09:06,710] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:09:06,794] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:09 to slack
+[2020-03-30 20:09:06,795] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:09:07,621] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:09:07,625] Sending CoronaVirus Previous Summary for India:
+ State                       |   Inf |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              |    19 |      1 |    0
+ Andaman and Nicobar Islands |     9 |      0 |    0
+ Bihar                       |    11 |      0 |    1
+ Chandigarh                  |     8 |      0 |    0
+ Chhattisgarh                |     7 |      0 |    0
+ Delhi                       |    53 |      6 |    2
+ Goa                         |     5 |      0 |    0
+ Gujarat                     |    58 |      1 |    5
+ Haryana                     |    33 |     17 |    0
+ Himachal Pradesh            |     3 |      0 |    1
+ Jammu and Kashmir           |    31 |      1 |    2
+ Karnataka                   |    80 |      5 |    3
+ Kerala                      |   194 |     19 |    1
+ Ladakh                      |    13 |      3 |    0
+ Madhya Pradesh              |    33 |      0 |    2
+ Maharashtra                 |   193 |     25 |    8
+ Manipur                     |     1 |      0 |    0
+ Mizoram                     |     1 |      0 |    0
+ Odisha                      |     3 |      0 |    0
+ Puducherry                  |     1 |      0 |    0
+ Punjab                      |    38 |      1 |    1
+ Rajasthan                   |    57 |      3 |    0
+ Tamil Nadu                  |    50 |      4 |    1
+ Telengana                   |    69 |      1 |    1
+ Uttarakhand                 |     7 |      2 |    0
+ Uttar Pradesh               |    75 |     11 |    0
+ West Bengal                 |    19 |      0 |    1
+ Total                       |  1071 |    100 |   29 to slack
+[2020-03-30 20:09:07,627] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:09:08,267] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:12:11,446] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:12:11,492] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:12:11,548] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:12 to slack
+[2020-03-30 20:12:11,549] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:12:12,219] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:12:12,224] Sending CoronaVirus Previous Summary for India:
+ State                       |   Inf |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              |    19 |      1 |    0
+ Andaman and Nicobar Islands |     9 |      0 |    0
+ Bihar                       |    11 |      0 |    1
+ Chandigarh                  |     8 |      0 |    0
+ Chhattisgarh                |     7 |      0 |    0
+ Delhi                       |    53 |      6 |    2
+ Goa                         |     5 |      0 |    0
+ Gujarat                     |    58 |      1 |    5
+ Haryana                     |    33 |     17 |    0
+ Himachal Pradesh            |     3 |      0 |    1
+ Jammu and Kashmir           |    31 |      1 |    2
+ Karnataka                   |    80 |      5 |    3
+ Kerala                      |   194 |     19 |    1
+ Ladakh                      |    13 |      3 |    0
+ Madhya Pradesh              |    33 |      0 |    2
+ Maharashtra                 |   193 |     25 |    8
+ Manipur                     |     1 |      0 |    0
+ Mizoram                     |     1 |      0 |    0
+ Odisha                      |     3 |      0 |    0
+ Puducherry                  |     1 |      0 |    0
+ Punjab                      |    38 |      1 |    1
+ Rajasthan                   |    57 |      3 |    0
+ Tamil Nadu                  |    50 |      4 |    1
+ Telengana                   |    69 |      1 |    1
+ Uttarakhand                 |     7 |      2 |    0
+ Uttar Pradesh               |    75 |     11 |    0
+ West Bengal                 |    19 |      0 |    1
+ Total                       |  1071 |    100 |   29 to slack
+[2020-03-30 20:12:12,226] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:12:12,613] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:13:58,827] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:13:58,876] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:13:58,929] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:13 to slack
+[2020-03-30 20:13:58,931] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:13:59,775] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:13:59,781] Sending CoronaVirus Previous Summary for India:
+                       State |   Inf |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              |    19 |      1 |    0
+ Andaman and Nicobar Islands |     9 |      0 |    0
+ Bihar                       |    11 |      0 |    1
+ Chandigarh                  |     8 |      0 |    0
+ Chhattisgarh                |     7 |      0 |    0
+ Delhi                       |    53 |      6 |    2
+ Goa                         |     5 |      0 |    0
+ Gujarat                     |    58 |      1 |    5
+ Haryana                     |    33 |     17 |    0
+ Himachal Pradesh            |     3 |      0 |    1
+ Jammu and Kashmir           |    31 |      1 |    2
+ Karnataka                   |    80 |      5 |    3
+ Kerala                      |   194 |     19 |    1
+ Ladakh                      |    13 |      3 |    0
+ Madhya Pradesh              |    33 |      0 |    2
+ Maharashtra                 |   193 |     25 |    8
+ Manipur                     |     1 |      0 |    0
+ Mizoram                     |     1 |      0 |    0
+ Odisha                      |     3 |      0 |    0
+ Puducherry                  |     1 |      0 |    0
+ Punjab                      |    38 |      1 |    1
+ Rajasthan                   |    57 |      3 |    0
+ Tamil Nadu                  |    50 |      4 |    1
+ Telengana                   |    69 |      1 |    1
+ Uttarakhand                 |     7 |      2 |    0
+ Uttar Pradesh               |    75 |     11 |    0
+ West Bengal                 |    19 |      0 |    1
+ Total                       |  1071 |    100 |   29 to slack
+[2020-03-30 20:13:59,784] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:14:00,768] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:23:09,608] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:23:09,655] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:23:09,707] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:23 to slack
+[2020-03-30 20:23:09,709] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:23:11,080] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:23:11,096] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+|                       State |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 20:23:11,102] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:23:11,885] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:32:48,156] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:32:48,205] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:32:48,257] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:32 to slack
+[2020-03-30 20:32:48,259] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:32:48,724] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:32:48,737] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 20:32:48,741] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:32:49,530] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:47:49,706] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:47:49,911] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:47:49,965] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:47 to slack
+[2020-03-30 20:47:49,966] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:47:50,898] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:47:50,906] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 20:47:50,909] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:47:51,441] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:54:27,058] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 20:54:27,154] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 20:54:27,281] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 20:54 to slack
+[2020-03-30 20:54:27,281] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:54:28,146] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 20:54:28,158] Sending CoronaVirus Previous Summary for India:
++-----------------------------+-------+--------+------+
+| State                       |   Inf |   Cure |   Dt |
+|-----------------------------+-------+--------+------|
+| Andhra Pradesh              |    19 |      1 |    0 |
+| Andaman and Nicobar Islands |     9 |      0 |    0 |
+| Bihar                       |    11 |      0 |    1 |
+| Chandigarh                  |     8 |      0 |    0 |
+| Chhattisgarh                |     7 |      0 |    0 |
+| Delhi                       |    53 |      6 |    2 |
+| Goa                         |     5 |      0 |    0 |
+| Gujarat                     |    58 |      1 |    5 |
+| Haryana                     |    33 |     17 |    0 |
+| Himachal Pradesh            |     3 |      0 |    1 |
+| Jammu and Kashmir           |    31 |      1 |    2 |
+| Karnataka                   |    80 |      5 |    3 |
+| Kerala                      |   194 |     19 |    1 |
+| Ladakh                      |    13 |      3 |    0 |
+| Madhya Pradesh              |    33 |      0 |    2 |
+| Maharashtra                 |   193 |     25 |    8 |
+| Manipur                     |     1 |      0 |    0 |
+| Mizoram                     |     1 |      0 |    0 |
+| Odisha                      |     3 |      0 |    0 |
+| Puducherry                  |     1 |      0 |    0 |
+| Punjab                      |    38 |      1 |    1 |
+| Rajasthan                   |    57 |      3 |    0 |
+| Tamil Nadu                  |    50 |      4 |    1 |
+| Telengana                   |    69 |      1 |    1 |
+| Uttarakhand                 |     7 |      2 |    0 |
+| Uttar Pradesh               |    75 |     11 |    0 |
+| West Bengal                 |    19 |      0 |    1 |
+| Total                       |  1071 |    100 |   29 |
++-----------------------------+-------+--------+------+ to slack
+[2020-03-30 20:54:28,166] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 20:54:28,592] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 21:01:11,274] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 21:01:11,366] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 21:01:11,506] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 21:01 to slack
+[2020-03-30 21:01:11,510] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 21:01:11,964] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 21:01:11,984] Sending CoronaVirus Previous Summary for India:
++-----------------------------+------+-----+------+
+| State	                             |      Inf	 |     Cure	 |   Dt |
+|-----------------------------+------+-----+------|
+| Andhra Pradesh              |   19 |   1 |    0 |
+| Andaman and Nicobar Islands |    9 |   0 |    0 |
+| Bihar                       |   11 |   0 |    1 |
+| Chandigarh                  |    8 |   0 |    0 |
+| Chhattisgarh                |    7 |   0 |    0 |
+| Delhi                       |   53 |   6 |    2 |
+| Goa                         |    5 |   0 |    0 |
+| Gujarat                     |   58 |   1 |    5 |
+| Haryana                     |   33 |  17 |    0 |
+| Himachal Pradesh            |    3 |   0 |    1 |
+| Jammu and Kashmir           |   31 |   1 |    2 |
+| Karnataka                   |   80 |   5 |    3 |
+| Kerala                      |  194 |  19 |    1 |
+| Ladakh                      |   13 |   3 |    0 |
+| Madhya Pradesh              |   33 |   0 |    2 |
+| Maharashtra                 |  193 |  25 |    8 |
+| Manipur                     |    1 |   0 |    0 |
+| Mizoram                     |    1 |   0 |    0 |
+| Odisha                      |    3 |   0 |    0 |
+| Puducherry                  |    1 |   0 |    0 |
+| Punjab                      |   38 |   1 |    1 |
+| Rajasthan                   |   57 |   3 |    0 |
+| Tamil Nadu                  |   50 |   4 |    1 |
+| Telengana                   |   69 |   1 |    1 |
+| Uttarakhand                 |    7 |   2 |    0 |
+| Uttar Pradesh               |   75 |  11 |    0 |
+| West Bengal                 |   19 |   0 |    1 |
+| Total                       | 1071 | 100 |   29 |
++-----------------------------+------+-----+------+ to slack
+[2020-03-30 21:01:11,992] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 21:01:12,816] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 21:02:50,302] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 21:02:50,395] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 21:02:50,531] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 21:02 to slack
+[2020-03-30 21:02:50,533] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 21:02:50,993] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 21:02:50,997] Sending CoronaVirus Previous Summary for India:
+| State	                             |      Inf	 |     Cure	 |   Dt |
+|:----------------------------|-----:|----:|-----:|
+| Andhra Pradesh              |   19 |   1 |    0 |
+| Andaman and Nicobar Islands |    9 |   0 |    0 |
+| Bihar                       |   11 |   0 |    1 |
+| Chandigarh                  |    8 |   0 |    0 |
+| Chhattisgarh                |    7 |   0 |    0 |
+| Delhi                       |   53 |   6 |    2 |
+| Goa                         |    5 |   0 |    0 |
+| Gujarat                     |   58 |   1 |    5 |
+| Haryana                     |   33 |  17 |    0 |
+| Himachal Pradesh            |    3 |   0 |    1 |
+| Jammu and Kashmir           |   31 |   1 |    2 |
+| Karnataka                   |   80 |   5 |    3 |
+| Kerala                      |  194 |  19 |    1 |
+| Ladakh                      |   13 |   3 |    0 |
+| Madhya Pradesh              |   33 |   0 |    2 |
+| Maharashtra                 |  193 |  25 |    8 |
+| Manipur                     |    1 |   0 |    0 |
+| Mizoram                     |    1 |   0 |    0 |
+| Odisha                      |    3 |   0 |    0 |
+| Puducherry                  |    1 |   0 |    0 |
+| Punjab                      |   38 |   1 |    1 |
+| Rajasthan                   |   57 |   3 |    0 |
+| Tamil Nadu                  |   50 |   4 |    1 |
+| Telengana                   |   69 |   1 |    1 |
+| Uttarakhand                 |    7 |   2 |    0 |
+| Uttar Pradesh               |   75 |  11 |    0 |
+| West Bengal                 |   19 |   0 |    1 |
+| Total                       | 1071 | 100 |   29 | to slack
+[2020-03-30 21:02:51,001] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 21:02:51,798] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 21:13:33,301] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 21:13:33,356] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 21:13:33,435] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 21:13 to slack
+[2020-03-30 21:13:33,439] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 21:13:37,510] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 21:13:37,530] Sending CoronaVirus Previous Summary for India:
+| State	                             |      Inf	 |     Cure	 |   Dt |
+|:----------------------------|-----:|----:|-----:|
+| Andhra Pradesh              |   19 |   1 |    0 |
+| Andaman and Nicobar Islands |    9 |   0 |    0 |
+| Bihar                       |   11 |   0 |    1 |
+| Chandigarh                  |    8 |   0 |    0 |
+| Chhattisgarh                |    7 |   0 |    0 |
+| Delhi                       |   53 |   6 |    2 |
+| Goa                         |    5 |   0 |    0 |
+| Gujarat                     |   58 |   1 |    5 |
+| Haryana                     |   33 |  17 |    0 |
+| Himachal Pradesh            |    3 |   0 |    1 |
+| Jammu and Kashmir           |   31 |   1 |    2 |
+| Karnataka                   |   80 |   5 |    3 |
+| Kerala                      |  194 |  19 |    1 |
+| Ladakh                      |   13 |   3 |    0 |
+| Madhya Pradesh              |   33 |   0 |    2 |
+| Maharashtra                 |  193 |  25 |    8 |
+| Manipur                     |    1 |   0 |    0 |
+| Mizoram                     |    1 |   0 |    0 |
+| Odisha                      |    3 |   0 |    0 |
+| Puducherry                  |    1 |   0 |    0 |
+| Punjab                      |   38 |   1 |    1 |
+| Rajasthan                   |   57 |   3 |    0 |
+| Tamil Nadu                  |   50 |   4 |    1 |
+| Telengana                   |   69 |   1 |    1 |
+| Uttarakhand                 |    7 |   2 |    0 |
+| Uttar Pradesh               |   75 |  11 |    0 |
+| West Bengal                 |   19 |   0 |    1 |
+| Total                       | 1071 | 100 |   29 | to slack
+[2020-03-30 21:13:37,538] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 21:13:38,658] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 21:26:45,707] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 21:26:45,765] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 21:26:45,906] oops, corona script failed.
+Traceback (most recent call last):
+  File "G:\BTECH pronay guha\COVID19_BOT\COVID19_BOT.py", line 126, in <module>
+    slacker()(slack_text)
+TypeError: 'NoneType' object is not callable
+[2020-03-30 21:27:25,758] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 21:27:25,838] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 21:27:26,101] oops, corona script failed.
+Traceback (most recent call last):
+  File "G:\BTECH pronay guha\COVID19_BOT\COVID19_BOT.py", line 126, in <module>
+    slacker()(slack_text)
+TypeError: 'NoneType' object is not callable
+[2020-03-30 21:28:17,036] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 21:28:17,145] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 21:28:17,229] oops, corona script failed.
+Traceback (most recent call last):
+  File "G:\BTECH pronay guha\COVID19_BOT\COVID19_BOT.py", line 126, in <module>
+    slacker()(slack_text)
+TypeError: 'NoneType' object is not callable
+[2020-03-30 21:29:30,289] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-30 21:29:30,467] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11659
+[2020-03-30 21:29:30,604] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 30/03/2020 21:29 to slack
+[2020-03-30 21:29:30,608] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 21:29:31,672] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-30 21:29:31,704] Sending CoronaVirus Previous Summary for India:
+ State                       |   Inf |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              |    19 |      1 |    0
+ Andaman and Nicobar Islands |     9 |      0 |    0
+ Bihar                       |    11 |      0 |    1
+ Chandigarh                  |     8 |      0 |    0
+ Chhattisgarh                |     7 |      0 |    0
+ Delhi                       |    53 |      6 |    2
+ Goa                         |     5 |      0 |    0
+ Gujarat                     |    58 |      1 |    5
+ Haryana                     |    33 |     17 |    0
+ Himachal Pradesh            |     3 |      0 |    1
+ Jammu and Kashmir           |    31 |      1 |    2
+ Karnataka                   |    80 |      5 |    3
+ Kerala                      |   194 |     19 |    1
+ Ladakh                      |    13 |      3 |    0
+ Madhya Pradesh              |    33 |      0 |    2
+ Maharashtra                 |   193 |     25 |    8
+ Manipur                     |     1 |      0 |    0
+ Mizoram                     |     1 |      0 |    0
+ Odisha                      |     3 |      0 |    0
+ Puducherry                  |     1 |      0 |    0
+ Punjab                      |    38 |      1 |    1
+ Rajasthan                   |    57 |      3 |    0
+ Tamil Nadu                  |    50 |      4 |    1
+ Telengana                   |    69 |      1 |    1
+ Uttarakhand                 |     7 |      2 |    0
+ Uttar Pradesh               |    75 |     11 |    0
+ West Bengal                 |    19 |      0 |    1
+ Total                       |  1071 |    100 |   29 to slack
+[2020-03-30 21:29:31,712] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-30 21:29:32,797] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 11:14:00,444] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-31 11:14:00,891] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11737
+[2020-03-31 11:14:00,978] Sending CoronaVirus leatest Summary for India:
+ State          | Inf      | Cure   | Dt
+----------------+----------+--------+-------
+ State          | Infected | Cured  | Death
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0
+ Andhra Pradesh | 4        | 0      | 0 to slack
+[2020-03-31 11:14:00,979] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 11:14:01,834] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 11:16:23,745] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-31 11:16:23,796] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11737
+[2020-03-31 11:16:23,855] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 31/03/2020 11:16 to slack
+[2020-03-31 11:16:23,858] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 11:16:24,342] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 11:16:24,348] Sending CoronaVirus Previous Summary for India:
+ State                       | Inf   |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              | 23    |      1 |    0
+ Andaman and Nicobar Islands | 9     |      0 |    0
+ Bihar                       | 15    |      0 |    1
+ Chandigarh                  | 8     |      0 |    0
+ Chhattisgarh                | 7     |      0 |    0
+ Delhi                       | 87    |      6 |    2
+ Goa                         | 5     |      0 |    0
+ Gujarat                     | 69    |      1 |    6
+ Haryana                     | 36    |     18 |    0
+ Himachal Pradesh            | 3     |      0 |    1
+ Jammu and Kashmir           | 48    |      2 |    2
+ Karnataka                   | 83    |      5 |    3
+ Kerala                      | 202   |     19 |    1
+ Ladakh                      | 13    |      3 |    0
+ Madhya Pradesh              | 47    |      0 |    3
+ Maharashtra                 | 198   |     25 |    8
+ Manipur                     | 1     |      0 |    0
+ Mizoram                     | 1     |      0 |    0
+ Odisha                      | 3     |      0 |    0
+ Puducherry                  | 1     |      0 |    0
+ Punjab                      | 38    |      1 |    1
+ Rajasthan                   | 59    |      3 |    0
+ Tamil Nadu                  | 67    |      4 |    1
+ Telengana                   | 71    |      1 |    1
+ Uttarakhand                 | 7     |      2 |    0
+ Uttar Pradesh               | 82    |     11 |    0
+ West Bengal                 | 22    |      0 |    2
+ Total                       | 1251# |    102 |   32 to slack
+[2020-03-31 11:16:24,350] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 11:16:25,141] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 11:53:35,096] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-31 11:53:35,383] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11737
+[2020-03-31 11:53:35,468] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 31/03/2020 11:53 to slack
+[2020-03-31 11:53:35,471] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 11:53:36,294] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 11:53:36,299] Sending CoronaVirus Previous Summary for India:
+ State                       | Inf   |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              | 23    |      1 |    0
+ Andaman and Nicobar Islands | 9     |      0 |    0
+ Bihar                       | 15    |      0 |    1
+ Chandigarh                  | 8     |      0 |    0
+ Chhattisgarh                | 7     |      0 |    0
+ Delhi                       | 87    |      6 |    2
+ Goa                         | 5     |      0 |    0
+ Gujarat                     | 69    |      1 |    6
+ Haryana                     | 36    |     18 |    0
+ Himachal Pradesh            | 3     |      0 |    1
+ Jammu and Kashmir           | 48    |      2 |    2
+ Karnataka                   | 83    |      5 |    3
+ Kerala                      | 202   |     19 |    1
+ Ladakh                      | 13    |      3 |    0
+ Madhya Pradesh              | 47    |      0 |    3
+ Maharashtra                 | 198   |     25 |    8
+ Manipur                     | 1     |      0 |    0
+ Mizoram                     | 1     |      0 |    0
+ Odisha                      | 3     |      0 |    0
+ Puducherry                  | 1     |      0 |    0
+ Punjab                      | 38    |      1 |    1
+ Rajasthan                   | 59    |      3 |    0
+ Tamil Nadu                  | 67    |      4 |    1
+ Telengana                   | 71    |      1 |    1
+ Uttarakhand                 | 7     |      2 |    0
+ Uttar Pradesh               | 82    |     11 |    0
+ West Bengal                 | 22    |      0 |    2
+ Total                       | 1251# |    102 |   32 to slack
+[2020-03-31 11:53:36,302] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 11:53:36,683] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 12:58:10,308] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-31 12:58:10,491] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11737
+[2020-03-31 12:58:10,700] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 31/03/2020 12:58 to slack
+[2020-03-31 12:58:10,700] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 12:58:11,147] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 12:58:11,159] Sending CoronaVirus Previous Summary for India:
+ State                       | Inf   |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              | 23    |      1 |    0
+ Andaman and Nicobar Islands | 9     |      0 |    0
+ Bihar                       | 15    |      0 |    1
+ Chandigarh                  | 8     |      0 |    0
+ Chhattisgarh                | 7     |      0 |    0
+ Delhi                       | 87    |      6 |    2
+ Goa                         | 5     |      0 |    0
+ Gujarat                     | 69    |      1 |    6
+ Haryana                     | 36    |     18 |    0
+ Himachal Pradesh            | 3     |      0 |    1
+ Jammu and Kashmir           | 48    |      2 |    2
+ Karnataka                   | 83    |      5 |    3
+ Kerala                      | 202   |     19 |    1
+ Ladakh                      | 13    |      3 |    0
+ Madhya Pradesh              | 47    |      0 |    3
+ Maharashtra                 | 198   |     25 |    8
+ Manipur                     | 1     |      0 |    0
+ Mizoram                     | 1     |      0 |    0
+ Odisha                      | 3     |      0 |    0
+ Puducherry                  | 1     |      0 |    0
+ Punjab                      | 38    |      1 |    1
+ Rajasthan                   | 59    |      3 |    0
+ Tamil Nadu                  | 67    |      4 |    1
+ Telengana                   | 71    |      1 |    1
+ Uttarakhand                 | 7     |      2 |    0
+ Uttar Pradesh               | 82    |     11 |    0
+ West Bengal                 | 22    |      0 |    2
+ Total                       | 1251# |    102 |   32 to slack
+[2020-03-31 12:58:11,166] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 12:58:11,613] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 21:56:22,469] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-31 21:56:22,956] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 12832
+[2020-03-31 21:56:23,190] Sending CoronaVirus leatest Summary for India:
+ State          | Inf      | Cure   | Dt
+----------------+----------+--------+-------
+ State          | Infected | Cured  | Death
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0
+ Andhra Pradesh | 17       | 0      | 0 to slack
+[2020-03-31 21:56:23,192] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 21:56:24,216] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 21:56:47,764] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-03-31 21:56:47,925] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 12832
+[2020-03-31 21:56:47,983] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 31/03/2020 21:56 to slack
+[2020-03-31 21:56:47,985] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 21:56:48,802] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-03-31 21:56:48,810] Sending CoronaVirus Previous Summary for India:
+ State                       | Inf   |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              | 40    |      1 |    0
+ Andaman and Nicobar Islands | 10    |      0 |    0
+ Bihar                       | 15    |      0 |    1
+ Chandigarh                  | 13    |      0 |    0
+ Chhattisgarh                | 8     |      0 |    0
+ Delhi                       | 97    |      6 |    2
+ Goa                         | 5     |      0 |    0
+ Gujarat                     | 73    |      3 |    6
+ Haryana                     | 40    |     21 |    0
+ Himachal Pradesh            | 3     |      0 |    1
+ Jammu and Kashmir           | 54    |      2 |    2
+ Karnataka                   | 83    |      5 |    3
+ Kerala                      | 234   |     19 |    1
+ Ladakh                      | 13    |      3 |    0
+ Madhya Pradesh              | 47    |      0 |    3
+ Maharashtra                 | 216   |     39 |    9
+ Manipur                     | 1     |      0 |    0
+ Mizoram                     | 1     |      0 |    0
+ Odisha                      | 3     |      0 |    0
+ Puducherry                  | 1     |      0 |    0
+ Punjab                      | 41    |      1 |    3
+ Rajasthan                   | 74    |      3 |    0
+ Tamil Nadu                  | 74    |      4 |    1
+ Telengana                   | 79    |      1 |    1
+ Uttarakhand                 | 7     |      2 |    0
+ Uttar Pradesh               | 101   |     14 |    0
+ West Bengal                 | 26    |      0 |    2
+ Total                       | 1397# |    124 |   35 to slack
+[2020-03-31 21:56:48,832] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-03-31 21:56:49,276] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-04-01 11:04:41,390] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-01 11:04:41,837] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 11373
+[2020-04-01 11:04:42,021] Sending CoronaVirus Summary for India below:
+No COVID-19 updation in India on 01/04/2020 11:04 to slack
+[2020-04-01 11:04:42,025] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-01 11:04:43,019] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
+[2020-04-01 11:04:43,039] Sending CoronaVirus Previous Summary for India:
+ State                       | Inf   |   Cure |   Dt
+-----------------------------+-------+--------+------
+ Andhra Pradesh              | 40    |      1 |    0
+ Andaman and Nicobar Islands | 10    |      0 |    0
+ Bihar                       | 15    |      0 |    1
+ Chandigarh                  | 13    |      0 |    0
+ Chhattisgarh                | 8     |      0 |    0
+ Delhi                       | 97    |      6 |    2
+ Goa                         | 5     |      0 |    0
+ Gujarat                     | 73    |      3 |    6
+ Haryana                     | 40    |     21 |    0
+ Himachal Pradesh            | 3     |      0 |    1
+ Jammu and Kashmir           | 54    |      2 |    2
+ Karnataka                   | 83    |      5 |    3
+ Kerala                      | 234   |     19 |    1
+ Ladakh                      | 13    |      3 |    0
+ Madhya Pradesh              | 47    |      0 |    3
+ Maharashtra                 | 216   |     39 |    9
+ Manipur                     | 1     |      0 |    0
+ Mizoram                     | 1     |      0 |    0
+ Odisha                      | 3     |      0 |    0
+ Puducherry                  | 1     |      0 |    0
+ Punjab                      | 41    |      1 |    3
+ Rajasthan                   | 74    |      3 |    0
+ Tamil Nadu                  | 74    |      4 |    1
+ Telengana                   | 79    |      1 |    1
+ Uttarakhand                 | 7     |      2 |    0
+ Uttar Pradesh               | 101   |     14 |    0
+ West Bengal                 | 26    |      0 |    2
+ Total                       | 1397# |    124 |   35 to slack
+[2020-04-01 11:04:43,047] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-01 11:04:43,841] https://hooks.slack.com:443 "POST /services/T010EAM8SA1/B010EC9MC93/MCPeKgw3lzMtPOUIM8iNCtIO HTTP/1.1" 200 22
