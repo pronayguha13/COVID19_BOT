@@ -7,4 +7,4 @@ ProjectName:COVID19_BOT
 
 """
 
-DEFAULT_SLACK_WEBHOOK = 'https://hooks.slack.com/services/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'
+DEFAULT_SLACK_WEBHOOK = 'https://hooks.slack.com/services/{{SLACK_WEBHOOK_URL}}'
